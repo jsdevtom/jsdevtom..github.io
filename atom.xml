@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>toms.blog</title>
+  
+  <subtitle>Programming Articles</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://toms.blog/"/>
+  <updated>2017-11-18T08:39:07.620Z</updated>
+  <id>https://toms.blog/</id>
+  
+  <author>
+    <name>Tom (jsdevtom)</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://toms.blog/hello-world/"/>
+    <id>https://toms.blog/hello-world/</id>
+    <published>2017-11-18T08:39:07.624Z</published>
+    <updated>2017-11-18T08:39:07.620Z</updated>
+    
+    <content type="html"><![CDATA[<p>So I’ve decided to become a blogger. Why? I want to </p><ul><li>Share the knowledge that my team and I struggle to find</li><li>Reinforce the things that I learn by teaching them</li><li>I bought this fairly expensive domain name and I am determined to use it</li></ul><p></p><h5 class="table-of-contents-header"><span id="table-of-contents">Table of contents</span></h5><p></p><div class="toc"><!-- toc --><ul><li><a href="#who-are-you">Who are you?</a></li><li><a href="#what-are-you-going-to-be-writing-about">What are you going to be writing about?</a></li><li><a href="#how-often-will-you-be-posting">How often will you be posting?</a></li><li><a href="#who-are-you-writing-for">Who Are You Writing For?</a></li><li><a href="#how-can-i-get-involved">How can I get involved?</a></li></ul><!-- tocstop --></div><h2><span id="who-are-you">Who are you?</span></h2><p>I am a young, untraditionally taught programmer who works for a startup in Munich. My team and I use typescript and angular daily although my interests also lie in artificial intelligence.</p><p>On a more personal level, I have been very lucky to have had a great upbringing and also to have discovered self-improvement. Self-improvement has, after the two years that I have been actively pursuing it, helped me to get start a programming career with 0 experience, get well on the way to my physical goals and develop a strong mental state among other things.</p><h2><span id="what-are-you-going-to-be-writing-about">What are you going to be writing about?</span></h2><p>I plan to write about four main topics:</p><ul><li>Angular</li><li>Artificial intelligence</li><li>Rust (I am currently a beginner so bare with me here)</li><li>JavaScript/ TypeScript</li></ul><p>I am going to be including code snippets and live examples whilst trying to keep the posts under a ten-minute read and to the point. A Tl;dr will be included where this is not possible; I know how frustrating it can be to try to get information from some overly long post. </p><p>If you feel that I need to expand on something that I am writing about, feel free to let me know! I love to help.</p><h2><span id="how-often-will-you-be-posting">How often will you be posting?</span></h2><p>Once a week is the goal. Working full time and commuting doesn’t leave much time left over. As mentioned above, I will be reinforcing what I have learnt by teaching it and I learn quite a bit so hopefully I will be able to post more often. We’ll see.</p><h2><span id="who-are-you-writing-for">Who Are You Writing For?</span></h2><p>People who want to learn to program (better) and/or keep up to date with the latest technological developments in the areas mentioned above. I guess if you are reading this, you probably are a software developer or want to become one. Blog posts were a critical part in achieving my goal of becoming a web developer. I feel that these posts could help you in the same way!</p><h2><span id="how-can-i-get-involved">How can I get involved?</span></h2><p>Comment below the posts, create pull requests on the examples, share the content if you think your circle would also find it useful.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;So I’ve decided to become a blogger. Why? I want to &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Share the knowledge that my team and I struggle to find&lt;/li&gt;
+&lt;li&gt;Reinfo
+      
+    
+    </summary>
+    
+    
+      <category term="Introduction" scheme="https://toms.blog/tags/introduction/"/>
+    
+      <category term="toms.blog" scheme="https://toms.blog/tags/toms-blog/"/>
+    
+      <category term="About" scheme="https://toms.blog/tags/about/"/>
+    
+  </entry>
+  
+</feed>
