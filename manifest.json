@@ -6,9 +6,44 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "images/favicon.ico",
-      "sizes": "128x128",
-      "type": "image/ico"
+      "sizes": "48x48",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
+    },
+    {
+      "sizes": "72x72",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
+    },
+    {
+      "sizes": "96x96",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
+    },
+    {
+      "sizes": "144x144",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
+    },
+    {
+      "sizes": "168x168",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
+    },
+    {
+      "sizes": "192x192",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
+    },
+    {
+      "sizes": "256x256",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
+    },
+    {
+      "sizes": "512x512",
+      "type": "image/svg",
+      "src": "images/favicon_v2.svg"
     }
   ]
 }
