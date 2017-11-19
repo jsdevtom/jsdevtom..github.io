@@ -1,0 +1,18 @@
+$black: #000;
+$main-red: rgb(198, 38, 65);
+
+$content-width: 90%;
+$content-max-width: 795px;
+$content-horizontal-padding: 5%;
+$content-horizontal-counter: -5vw;
+$med-width: 550px;
+$header-vertical-padding: 1.34rem;
+
+
+.content-width {
+  width: 100%;
+  @media screen and (min-width: $content-width){
+    width: $content-width;
+  }
+  max-width: $content-max-width;
+}
